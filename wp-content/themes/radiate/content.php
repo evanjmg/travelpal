@@ -37,7 +37,7 @@
 	</div><!-- .entry-summary -->
 	<?php else : ?>
 	<div class="entry-content">
-		<?php the_content( __( 'Read more <span class="meta-nav">&rarr;</span>', 'radiate' ) ); ?>
+		<?php the_excerpt( __( 'Read more <span class="meta-nav">&rarr;</span>', 'radiate' ) ); ?>
 		<?php
 			wp_link_pages( array(
 				'before' => '<div class="page-links">' . __( 'Pages:', 'radiate' ),
