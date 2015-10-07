@@ -19,6 +19,9 @@
 		</div><!-- .entry-meta -->
 		<?php endif; ?>
 	</header><!-- .entry-header -->
+	<p>
+		
+	</p>
   <?php
    if( has_post_thumbnail() ) {
       $image = '';
