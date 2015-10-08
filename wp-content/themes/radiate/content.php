@@ -34,13 +34,14 @@
       echo $image;
    }
    ?>
-	<?php if ( is_search() ) : // Only display Excerpts for Search ?>
-	<div class="entry-summary">
+   	<div class="entry-summary">
 		<?php the_excerpt(); ?>
 	</div><!-- .entry-summary -->
+	<?php if ( is_search() ) : // Only display Excerpts for Search ?>
+
 	<?php else : ?>
 	<div class="entry-content">
-		<?php the_excerpt( __( 'Read more <span class="meta-nav">&rarr;</span>', 'radiate' ) ); ?>
+		
 		<?php
 			wp_link_pages( array(
 				'before' => '<div class="page-links">' . __( 'Pages:', 'radiate' ),
