@@ -40,15 +40,7 @@
 	<?php if ( is_search() ) : // Only display Excerpts for Search ?>
 
 	<?php else : ?>
-	<div class="entry-content">
-		
-		<?php
-			wp_link_pages( array(
-				'before' => '<div class="page-links">' . __( 'Pages:', 'radiate' ),
-				'after'  => '</div>',
-			) );
-		?>
-	</div><!-- .entry-content -->
+
 	<?php endif; ?>
 
 	<footer class="entry-meta">
