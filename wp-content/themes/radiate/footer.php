@@ -24,6 +24,8 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<script>
+	jQuery('.entry-summary > .addthis_toolbox:eq(2)').hide()
+</script>
 </body>
 </html>
