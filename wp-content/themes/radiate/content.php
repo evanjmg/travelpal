@@ -34,7 +34,7 @@
       echo $image;
    }
    ?>
-   	<div>
+   	<div class="entry-summary">
 		<?php the_excerpt(); ?>
 	</div>
 	<?php if ( is_search() ) : // Only display Excerpts for Search ?>
