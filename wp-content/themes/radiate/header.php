@@ -16,7 +16,7 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <?php wp_head(); ?>
-
+<title>Travelpal</title>
 </head>
 
 <body <?php body_class(); ?>>
@@ -30,7 +30,9 @@
   ga('send', 'pageview');
 
 </script>
-<div id="parallax-bg"></div>
+<div id="parallax-bg">
+	
+</div>
 <div id="page" class="hfeed site">
 	<?php do_action( 'before' ); ?>
 	<header id="masthead" class="site-header" role="banner">
