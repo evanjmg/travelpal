@@ -25,7 +25,9 @@
 
 <?php wp_footer(); ?>
 <script>
-	jQuery('.entry-summary > .addthis_toolbox:eq(2)').hide()
+	jQuery('.entry-summary > .addthis_toolbox:eq(2)').hide();
+	jQuery('ul#contact > li').css('list-style', 'none!important');
+
 </script>
 </body>
 </html>
