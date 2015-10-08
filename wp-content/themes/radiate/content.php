@@ -35,7 +35,8 @@
    }
    ?>
    	<div class="entry-summary">
-		<?php the_excerpt(); ?>
+		<?php bfa_excerpt(); ?>
+		
 	</div><!-- .entry-summary -->
 	<?php if ( is_search() ) : // Only display Excerpts for Search ?>
 
