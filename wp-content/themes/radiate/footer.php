@@ -27,8 +27,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
 <script>
 	jQuery('.entry-summary > .addthis_toolbox:eq(2)').hide();
-	jQuery('ul#contact > li').css('list-style', 'none!important');
-
+	jQuery('.byline').hide();
 </script>
 </body>
 </html>
