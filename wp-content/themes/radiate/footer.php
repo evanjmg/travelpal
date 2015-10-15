@@ -26,7 +26,7 @@
 <?php wp_footer(); ?>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
 <script>
-	jQuery('.entry-summary > .addthis_toolbox:eq(2)').hide();
+jQuery('.entry-summary > .addthis_toolbox:first-child').next('.addthis_toolbox').hide();
 	jQuery('.byline').hide();
 </script>
 </body>
