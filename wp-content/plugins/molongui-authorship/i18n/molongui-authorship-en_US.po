@@ -1,0 +1,590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Molongui Authorship\n"
+"POT-Creation-Date: 2015-07-07 12:34+0100\n"
+"PO-Revision-Date: 2015-07-07 12:35+0100\n"
+"Last-Translator: Amitzy <molongui@amitzy.com>\n"
+"Language-Team: Amitzy <molongui@amitzy.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: molongui-authorship.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-plugin-admin.php:286
+#, php-format
+msgid ""
+"There is a premium version of this plugin. Grab a %spremium licence%s to "
+"unlock all features and have direct support."
+msgstr ""
+
+#: admin/class-plugin-admin.php:358
+#, php-format
+msgid ""
+"Molongui Authorship license has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and\n"
+"\t\t\t\t\tthe plugin."
+msgstr ""
+
+#: admin/class-plugin-admin.php:376 admin/class-plugin-admin.php:886
+msgid "Settings"
+msgstr ""
+
+#: admin/class-plugin-admin.php:377 admin/views/html-admin-page-about.php:68
+msgid "Docs"
+msgstr ""
+
+#: admin/class-plugin-admin.php:382
+msgid "Go Premium"
+msgstr ""
+
+#: admin/class-plugin-admin.php:554 admin/class-plugin-admin.php:558
+msgid "License Activation"
+msgstr ""
+
+#: admin/class-plugin-admin.php:559
+msgid "License Key"
+msgstr ""
+
+#: admin/class-plugin-admin.php:560
+msgid "License email"
+msgstr ""
+
+#: admin/class-plugin-admin.php:637
+msgid "Plugin activated. "
+msgstr ""
+
+#: admin/class-plugin-admin.php:644
+msgid ""
+"Connection failed to the\n"
+"\t\t\t\t\tLicense Key API server. Try again later."
+msgstr ""
+
+#: admin/class-plugin-admin.php:705
+msgid ""
+"The license could not be\n"
+"\t\tdeactivated. Use the License Deactivation tab to manually deactivate the "
+"license before activating a new\n"
+"\t\tlicense."
+msgstr ""
+
+#: admin/class-plugin-admin.php:722 admin/class-plugin-admin.php:726
+msgid "License Deactivation"
+msgstr ""
+
+#: admin/class-plugin-admin.php:728
+msgid "Deactivate License Key"
+msgstr ""
+
+#: admin/class-plugin-admin.php:772
+msgid "Plugin license deactivated. "
+msgstr ""
+
+#: admin/class-plugin-admin.php:826
+msgid "There is no active license to deactivate."
+msgstr ""
+
+#: admin/class-plugin-admin.php:843
+msgid "Deactivates the License Key so it can be used on another blog."
+msgstr ""
+
+#: admin/class-plugin-admin.php:859
+msgid "About"
+msgstr ""
+
+#: admin/class-plugin-admin.php:890
+msgid "Placement"
+msgstr ""
+
+#: admin/class-plugin-admin.php:891
+msgid "Author box position"
+msgstr ""
+
+#: admin/class-plugin-admin.php:892
+msgid "Layout"
+msgstr ""
+
+#: admin/class-plugin-admin.php:893
+msgid "Social media icon style"
+msgstr ""
+
+#: admin/class-plugin-admin.php:894
+msgid "Box layout"
+msgstr ""
+
+#: admin/class-plugin-admin.php:895
+msgid "Box color scheme"
+msgstr ""
+
+#: admin/class-plugin-admin.php:899
+msgid ""
+"Choose the position relative to a post where the author box will be "
+"displayed."
+msgstr ""
+
+#: admin/class-plugin-admin.php:910
+msgid "Above post content"
+msgstr ""
+
+#: admin/class-plugin-admin.php:911
+msgid "Below post content"
+msgstr ""
+
+#: admin/class-plugin-admin.php:920
+msgid ""
+"Customize the author box choosing the layout you like the most and picking "
+"up the social media icons and colors that fit best with your site."
+msgstr ""
+
+#: admin/class-plugin-admin.php:931 admin/class-plugin-admin.php:989
+#: admin/class-plugin-admin.php:1007
+msgid "Default"
+msgstr ""
+
+#: admin/class-plugin-admin.php:932
+msgid "Squared [PREMIUM]"
+msgstr ""
+
+#: admin/class-plugin-admin.php:933
+msgid "Circled [PREMIUM]"
+msgstr ""
+
+#: admin/class-plugin-admin.php:934
+msgid "Branded [PREMIUM]"
+msgstr ""
+
+#: admin/class-plugin-admin.php:944 admin/class-plugin-admin.php:992
+#: admin/class-plugin-admin.php:1010 includes/class-custom-profile.php:123
+#: includes/class-guest-author.php:454
+msgid "Premium"
+msgstr ""
+
+#: admin/class-plugin-admin.php:944 admin/class-plugin-admin.php:992
+#: admin/class-plugin-admin.php:1010
+#, php-format
+msgid ""
+"This option is available only in the %spremium version%s of the plugin. "
+"Default style will be used in the free version."
+msgstr ""
+
+#. Author of the plugin/theme
+#: admin/views/html-admin-page-about.php:25
+msgid "Amitzy"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:33
+msgid "Plugin information"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:38
+msgid "Name"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:42
+msgid "License"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:46
+msgid "Version"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:50
+#: includes/class-guest-author.php:195 includes/class-guest-author.php:271
+#: includes/class-guest-author.php:368
+msgid "Author"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:52
+#, php-format
+msgid "%1$sMolongui%2$s"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:61
+msgid "Upgrade"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:64
+msgid "Upgrade now"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:71
+msgid "Check documentation"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:83
+msgid "Rate"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:84
+msgid "Feedback"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:91
+msgid ""
+"We are constantly looking for ways to improve the quality of our products "
+"and services. How you rate our product and service\n"
+"\t\t\t\t\t\t\tis the most important information we can obtain to support our "
+"goal."
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:96
+msgid ""
+"We would really appreciate it if you would take a second to rate this plugin "
+"at the official directory of Wordpress\n"
+"\t\t\t\t\t\t\t\tplugins. A huge thank you from Molongui in advance!"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:101
+msgid "Rate this plugin"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:105
+msgid ""
+"We would really appreciate any feedback you would like to send us. A huge "
+"thank you from Molongui in advance!"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:110
+msgid "Send feedback"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:126
+#, php-format
+msgid "Molongui is a trademark of %1$s Amitzy%2$s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/views/html-admin-page-settings.php:19 config/update.php:55
+#: includes/class-custom-profile.php:58
+msgid "Molongui Authorship"
+msgstr ""
+
+#: admin/views/html-admin-page-upsells.php:26
+msgid ""
+"As part of our ongoing effort to provide high quality, eye-catching "
+"Wordpress plugins, here you have some you might find useful for your\n"
+"\tsite:"
+msgstr ""
+
+#: admin/views/html-admin-page-upsells.php:36
+#: admin/views/html-admin-page-upsells.php:54
+msgid "Free"
+msgstr ""
+
+#: includes/class-custom-profile.php:48
+msgid "Upload New Image"
+msgstr ""
+
+#: includes/class-custom-profile.php:49
+msgid "Change Current Image"
+msgstr ""
+
+#: includes/class-custom-profile.php:63
+msgid "Profile image"
+msgstr ""
+
+#: includes/class-custom-profile.php:70
+msgid "Remove"
+msgstr ""
+
+#: includes/class-custom-profile.php:71
+msgid "Edit"
+msgstr ""
+
+#: includes/class-custom-profile.php:90
+msgid "Author link"
+msgstr ""
+
+#: includes/class-custom-profile.php:95 includes/class-guest-author.php:50
+#: includes/class-guest-author.php:407
+msgid "Job position"
+msgstr ""
+
+#: includes/class-custom-profile.php:100 includes/class-guest-author.php:51
+#: includes/class-guest-author.php:411
+msgid "Company"
+msgstr ""
+
+#: includes/class-custom-profile.php:105
+msgid "Biographical info"
+msgstr ""
+
+#: includes/class-custom-profile.php:110
+msgid "Twitter profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:111 includes/class-guest-author.php:446
+msgid "https://www.twitter.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:115
+msgid "Facebook profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:116 includes/class-guest-author.php:450
+msgid "https://www.facebook.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:120
+msgid "Linkedin profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:122 includes/class-guest-author.php:455
+msgid "Premium feature"
+msgstr ""
+
+#: includes/class-custom-profile.php:123 includes/class-guest-author.php:454
+#, php-format
+msgid "This option requires you to buy the %spremium version%s of this plugin."
+msgstr ""
+
+#: includes/class-custom-profile.php:128
+msgid "Google+ profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:129 includes/class-guest-author.php:459
+msgid "https://plus.google.com/+user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:133
+msgid "Youtube profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:134 includes/class-guest-author.php:463
+msgid "https://www.youtube.com/user/user_name"
+msgstr ""
+
+#: includes/class-guest-author.php:52
+msgid "Url"
+msgstr ""
+
+#: includes/class-guest-author.php:53
+msgid "Date"
+msgstr ""
+
+#: includes/class-guest-author.php:92
+msgctxt "post type general name"
+msgid "Guest authors"
+msgstr ""
+
+#: includes/class-guest-author.php:93
+msgctxt "post type singular name"
+msgid "Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:94 includes/class-guest-author.php:95
+msgid "Guest authors"
+msgstr ""
+
+#: includes/class-guest-author.php:96
+msgid "All Guest authors"
+msgstr ""
+
+#: includes/class-guest-author.php:97
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-guest-author.php:98
+msgid "Add New Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:99
+msgid "Edit Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:100
+msgid "New Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:101
+msgid "View Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:102
+msgid "Search Guest authors"
+msgstr ""
+
+#: includes/class-guest-author.php:103
+msgid "No guest authors found"
+msgstr ""
+
+#: includes/class-guest-author.php:104
+msgid "No guest authors found in the Trash"
+msgstr ""
+
+#: includes/class-guest-author.php:144
+msgid "Enter guest author name here"
+msgstr ""
+
+#: includes/class-guest-author.php:285
+msgid "Job profile"
+msgstr ""
+
+#: includes/class-guest-author.php:295
+msgid "Social Media"
+msgstr ""
+
+#: includes/class-guest-author.php:351
+msgid "As author, you can choose between a registered user and a guest author:"
+msgstr ""
+
+#: includes/class-guest-author.php:356
+msgid "Registered author"
+msgstr ""
+
+#: includes/class-guest-author.php:362
+msgid "Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:415
+msgid "URL"
+msgstr ""
+
+#: includes/class-guest-author.php:415
+msgid "Insert here the URL of the page you want the user name to link to."
+msgstr ""
+
+#: includes/class-guest-author.php:416
+msgid "http://www.example.com/"
+msgstr ""
+
+#: includes/class-guest-author.php:445
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-guest-author.php:449
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-guest-author.php:453
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-guest-author.php:458
+msgid "Google +"
+msgstr ""
+
+#: includes/class-guest-author.php:462
+msgid "Youtube"
+msgstr ""
+
+#: includes/update/class-plugin-update.php:503
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:516
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:529
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:542
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:555
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:568
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:581
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:594
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:607
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:620
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:633
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+
+#: includes/update/class-plugin-update.php:646
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: public/views/html-default-authorship.php:43
+msgid "at"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://molongui.amitzy.com/authorship/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Give authorship to your posts and pages with Molongui Authorship, the only "
+"plugin that allows you to add Guest Authors."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://molongui.amitzy.com/"
+msgstr ""

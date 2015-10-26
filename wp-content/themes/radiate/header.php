@@ -19,6 +19,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css">
 <?php wp_head(); ?>
 <title>Travelpal</title>
+<meta name='description' content='Discover London through the locals, master London transport, shopping, and attractions.'>
 </head>
 
 <body <?php body_class(); ?>>
