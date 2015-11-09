@@ -19,7 +19,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css">
 <?php wp_head(); ?>
 <title>Travelpal</title>
+
 <meta name='description' content='Discover London through the locals, master London transport, shopping, and attractions.'>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
 </head>
 
 <body <?php body_class(); ?>>
@@ -41,7 +43,7 @@
 	<header id="masthead" class="site-header" role="banner">
 		<div class="header-wrap clearfix">
 			<div class="site-branding">
-				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?> <img height="50px" class="header-logo" src="http://travelpal.s3-eu-west-1.amazonaws.com/wp-content/uploads/2015/10/08101743/travelpal-logo.png" alt="travelpal logo"> <span class="header-text">Your Friendly Travel Guide</span></a></h1>
+				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><img height="50px" class="header-logo" src="http://travelpal.s3-eu-west-1.amazonaws.com/wp-content/uploads/2015/10/08101743/travelpal-logo.png" alt="travelpal logo"> <span class="header-text">Your Friendly Travel Guide</span></a></h1>
 				<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 			</div>
 
