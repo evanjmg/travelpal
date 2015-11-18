@@ -1,4 +1,3 @@
-
 <?php
 /**
  * The template for displaying the footer.
@@ -10,23 +9,11 @@
  * @since Radiate 1.0
  */
 ?>
-
-		</div><!-- .inner-wrap -->
-	</div><!-- #content -->
-
-	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="site-info">
-			<?php do_action( 'radiate_credits' ); ?>
-			<?php _e( 'Proudly  powered by ', 'radiate' ); ?>
-			<a href="http://wordpress.org/" rel="generator"><?php _e( 'WordPress', 'radiate' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'radiate' ), 'Radiate', '<a href="'.esc_url('http://themegrill.com/').'" rel="designer">ThemeGrill</a>' ); ?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
-   <a href="#masthead" id="scroll-up"><span class="genericon genericon-collapse"></span></a>
-</div><!-- #page -->
-
-<?php wp_footer(); ?>
+</div><!-- .inner-wrap -->
+	</div><!-- #content --><footer id="colophon" class="site-footer" role="contentinfo"><div class="site-info"><?php do_action( 'radiate_credits' ); ?>© 2015 Travelpal | <a href="http://www.uktravelpal.com/privacy-policy/" target="_blank">Privacy Policy</a> | <a href="https://instagram.com/uktravelpal/">Instagram</a></div>
+</div> <!-- #colophon --><!--<a href="#masthead" id="scroll-up"><span class="genericon genericon-collapse"></span></a>-->
+	</footer>
+<!-- <?php wp_footer(); ?> -->
 
 </body>
 </html>
