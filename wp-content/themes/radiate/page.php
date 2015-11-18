@@ -32,6 +32,10 @@ get_header(); ?>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
+<script>
+jQuery('.entry-summary > .addthis_toolbox:first-child').next('.addthis_toolbox').hide();
+	jQuery('.byline').hide();
+</script>
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
